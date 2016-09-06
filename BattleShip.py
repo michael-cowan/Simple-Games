@@ -1,4 +1,6 @@
-## BATTLESHIP
+# one player "Battling Ships"
+
+
 from random import randint
 
 ColTrans = {
